@@ -84,4 +84,4 @@ All variables are documented in `.env.example` (Qdrant, embedding model, LLM end
 
 ## License
 
-Specify your license here if applicable.
+MIT — see [LICENSE](LICENSE).
